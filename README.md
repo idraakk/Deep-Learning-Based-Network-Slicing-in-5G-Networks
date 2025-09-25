@@ -81,9 +81,9 @@ The methodology implemented in this project follows a structured framework, incl
 - Adapting the framework for 6G networks.
 ## Contact Information
 
-For inquiries or further information, please contact 11a.rudroneelsengupta@gmail.com
+For inquiries or further information, please contact idraakmk@gmail.com
 
-LinkedIn-www.linkedin.com/in/rudrasengupta
+LinkedIn-www.linkedin.com/in/idraak
 
 
 
